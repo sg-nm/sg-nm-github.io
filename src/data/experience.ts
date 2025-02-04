@@ -47,8 +47,8 @@ export const experienceData: Experience[] = [
   },
   {
     date: "2015.4 - 2017.9",
-    title: "Research Fellow (DC1) of the Japan Society for the Promotion of Science",
-    // company: "RIKEN AIP",
+    title: "Research Fellow (DC1)",
+    company: "Japan Society for the Promotion of Science (JSPS)",
     // description:
     //  "Worked on improving robustness of large language models to distribution shifts",
     // manager: "Elise Brown",
