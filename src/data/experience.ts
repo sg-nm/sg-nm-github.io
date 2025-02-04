@@ -14,7 +14,7 @@ export const experienceData: Experience[] = [
     title: "Research Scientist",
     company: "Sakana AI",
     // description:
-      "Developed novel algorithms for causal structure learning in reinforcement learning settings",
+    //  "Developed novel algorithms for causal structure learning in reinforcement learning settings",
     // advisor: "Peter Wang",
     // companyUrl: "https://deepmind.com",
   },
