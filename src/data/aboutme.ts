@@ -25,8 +25,9 @@ export const aboutMe: AboutMe = {
   description:
     "I'm a research scientist working at Sakana AI in Tokyo. My research focuses on developing good vision and language models.",
   email: "msuganuma[at]sakana.ai",
-  imageUrl:
-    "https://images.unsplash.com/photo-1581481615985-ba4775734a9b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  imageUrl: "/images/suganuma.jpg",
+  //imageUrl:
+  //  "https://images.unsplash.com/photo-1581481615985-ba4775734a9b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   googleScholarUrl: "https://scholar.google.co.jp/citations?user=NpWGfwgAAAAJ&hl=ja&oi=ao",
   githubUsername: "sg-nm",
   linkedinUsername: "masanori-suganuma-267928171",
