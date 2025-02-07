@@ -35,7 +35,7 @@ export const publicationData: Publication[] = [
     authors: "Lu Xiangyong, Masanori Suganuma, Takayuki Okatani",
     //paperUrl: "https://arxiv.org/abs/2302.13095",
     //codeUrl: "https://github.com/jsmith/robust-causal-discovery",
-    imageUrl: "/images/lagrangian.png"
+    imageUrl: "/images/SBCFormer.png"
   },
   {
     year: "2024",
@@ -44,6 +44,7 @@ export const publicationData: Publication[] = [
     authors: "Zhang Jie, Masanori Suganuma, Takayuki Okatani",
     //paperUrl: "https://arxiv.org/abs/2302.13095",
     //codeUrl: "https://github.com/jsmith/robust-causal-discovery",
+    imageUrl: "/images/contextual_affinity.png"
   },
   {
     year: "2023",
@@ -52,6 +53,7 @@ export const publicationData: Publication[] = [
     authors: "Shuang Liu, Masanori Suganuma, Takayuki Okatani",
     //paperUrl: "https://arxiv.org/abs/2302.13095",
     //codeUrl: "https://github.com/jsmith/robust-causal-discovery",
+    imageUrl: "/images/symmetry_aware.png"
   },
   {
     year: "2023",
@@ -60,6 +62,7 @@ export const publicationData: Publication[] = [
     authors: "Zhijie Wang, Xing Liu, Masanori Suganuma, Takayuki Okatani",
     //paperUrl: "https://arxiv.org/abs/2302.13095",
     //codeUrl: "https://github.com/jsmith/robust-causal-discovery",
+    imageUrl: "/images/cra.png"
   },
   {
     year: "2023",
@@ -68,6 +71,7 @@ export const publicationData: Publication[] = [
     authors: "Qian Ye, Masanori Suganuma, Takayuki Okatani",
     //paperUrl: "https://arxiv.org/abs/2302.13095",
     //codeUrl: "https://github.com/jsmith/robust-causal-discovery",
+    imageUrl: "/images/Accurate Single-Image Defocus Deblurring.png"
   },
   {
     year: "2022",
@@ -76,6 +80,7 @@ export const publicationData: Publication[] = [
     authors: "Kang-Jun Liu, Masanori Suganuma, Takayuki Okatani",
     paperUrl: "https://openreview.net/pdf?id=Jz98aDK5gMW",
     //codeUrl: "https://github.com/jsmith/robust-causal-discovery",
+    imageUrl: "/images/KJ.png"
   },
   {
     year: "2022",
@@ -84,6 +89,7 @@ export const publicationData: Publication[] = [
     authors: "Van-Quang Nguyen, Masanori Suganuma, Takayuki Okatani",
     paperUrl: "https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136960165.pdf",
     //codeUrl: "https://github.com/jsmith/robust-causal-discovery",
+    imageUrl: "/images/GRIT.png"
   },
   {
     year: "2021",
@@ -92,6 +98,7 @@ export const publicationData: Publication[] = [
     authors: "Wenzheng Song, Masanori Suganuma, Xing Liu, Noriyuki Shimobayashi, Daisuke Maruta, Takayuki Okatani",
     paperUrl: "https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136960165.pdf",
     //codeUrl: "https://github.com/jsmith/robust-causal-discovery",
+    imageUrl: "/images/matching_dark.png"
   },
   {
     year: "2021",
@@ -100,6 +107,7 @@ export const publicationData: Publication[] = [
     authors: "Van-Quang Nguyen, Masanori Suganuma, Takayuki Okatani",
     paperUrl: "https://www.ijcai.org/proceedings/2021/0128.pdf",
     //codeUrl: "https://github.com/jsmith/robust-causal-discovery",
+    imageUrl: "/images/look_wide.png"
   },
   {
     year: "2021",
