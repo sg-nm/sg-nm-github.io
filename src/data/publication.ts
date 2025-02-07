@@ -116,6 +116,7 @@ export const publicationData: Publication[] = [
     authors: "Engkarat Techapanurak, Masanori Suganuma, Takayuki Okatani",
     paperUrl: "https://www.ijcai.org/proceedings/2021/0128.pdf",
     //codeUrl: "https://github.com/jsmith/robust-causal-discovery",
+    imageUrl: "/images/ood.png"
   },
   {
     year: "2020",
@@ -124,6 +125,7 @@ export const publicationData: Publication[] = [
     authors: "Masanori Suganuma, Masayuki Kobayashi, Shinichi Shirakawa, Tomoharu Nagao",
     //paperUrl: "https://arxiv.org/abs/1704.00764",
     //codeUrl: "https://github.com/sg-nm/Evolutionary-Autoencoders",
+    imageUrl: "/images/CGPDNN.png"
   },
   {
     year: "2020",
@@ -132,6 +134,7 @@ export const publicationData: Publication[] = [
     authors: "Van-Quang Nguyen, Masanori Suganuma, Takayuki Okatani",
     paperUrl: "https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690222.pdf",
     //codeUrl: "https://github.com/jsmith/robust-causal-discovery",
+    imageUrl: "/images/dialog.png"
   },
   {
     year: "2020",
@@ -140,6 +143,7 @@ export const publicationData: Publication[] = [
     authors: "Yusuke Hosoya, Masanori Suganuma, Takayuki Okatani",
     paperUrl: "https://openaccess.thecvf.com/content_WACV_2020/html/Hosoya_Analysis_and_a_Solution_of_Momentarily_Missed_Detection_for_Anchor-based_WACV_2020_paper.html",
     //codeUrl: "https://github.com/jsmith/robust-causal-discovery",
+    imageUrl: "/images/hosoya.png"
   },
   {
     year: "2019",
@@ -148,6 +152,7 @@ export const publicationData: Publication[] = [
     authors: "Masanori Suganuma, Xing Liu, Takayuki Okatani",
     paperUrl: "https://openaccess.thecvf.com/content_CVPR_2019/html/Suganuma_Attention-Based_Adaptive_Selection_of_Operations_for_Image_Restoration_in_the_CVPR_2019_paper.html",
     codeUrl: "https://github.com/sg-nm/Operation-wise-attention-network",
+    imageUrl: "/images/cvpr_suganuma.png"
   },
   {
     year: "2019",
@@ -156,6 +161,7 @@ export const publicationData: Publication[] = [
     authors: "Xing Liu, Masanori Suganuma, Zhun Sun, Takayuki Okatani",
     paperUrl: "https://openaccess.thecvf.com/content_CVPR_2019/html/Liu_Dual_Residual_Networks_Leveraging_the_Potential_of_Paired_Operations_for_CVPR_2019_paper.html",
     //codeUrl: "https://github.com/sg-nm/Operation-wise-attention-network",
+    imageUrl: "/images/cvpr_liu.png"
   },
   {
     year: "2018",
@@ -164,6 +170,7 @@ export const publicationData: Publication[] = [
     authors: "Masanori Suganuma, Mete Ozay, Takayuki Okatani",
     paperUrl: "https://proceedings.mlr.press/v80/suganuma18a.html",
     codeUrl: "https://github.com/sg-nm/Evolutionary-Autoencoders",
+    imageUrl: "/images/icml_suganuma.png"
   },
   {
     year: "2017",
@@ -172,6 +179,7 @@ export const publicationData: Publication[] = [
     authors: "Masanori Suganuma, Shinichi Shirakawa, Tomoharu Nagao",
     paperUrl: "https://arxiv.org/abs/1704.00764",
     //codeUrl: "https://github.com/sg-nm/Evolutionary-Autoencoders",
+    imageUrl: "/images/CGP_gecco.png",
     award: "🏆 Best Paper Award",
   },
 ];
