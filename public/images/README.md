@@ -1,1 +1,1 @@
-- sample
+Public resources
