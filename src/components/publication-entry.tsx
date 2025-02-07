@@ -14,8 +14,8 @@ export function PublicationEntry({
           <Image
             src={publication.imageUrl}
             alt={publication.title}
-            width={320}
-            height={400}
+            width={160}
+            height={200}
             className="rounded-lg transition-all duration-300"
           />
         </div>
