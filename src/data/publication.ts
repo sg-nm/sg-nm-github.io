@@ -26,7 +26,7 @@ export const publicationData: Publication[] = [
     //  "https://images.unsplash.com/photo-1561622539-dffbfc2008fd?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     //award: "🏆 Best Paper Award",
     // if you have an image in public/images, you can use it like this:
-    imageUrl: "/images/media.png"
+    imageUrl: "/images/DHPR.png"
   },
   {
     year: "2024",
