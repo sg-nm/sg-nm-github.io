@@ -35,6 +35,7 @@ export const publicationData: Publication[] = [
     authors: "Lu Xiangyong, Masanori Suganuma, Takayuki Okatani",
     //paperUrl: "https://arxiv.org/abs/2302.13095",
     //codeUrl: "https://github.com/jsmith/robust-causal-discovery",
+    imageUrl: "/images/lagrangian.png"
   },
   {
     year: "2024",
