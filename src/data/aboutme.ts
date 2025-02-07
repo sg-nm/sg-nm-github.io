@@ -33,7 +33,7 @@ export const aboutMe: AboutMe = {
   linkedinUsername: "masanori-suganuma-267928171",
   twitterUsername: "wkpeco",
   blogUrl: "https://",
-  cvUrl: "https://",
+  cvUrl: "/images/suganuma_cv.pdf",
   // institutionUrl: "https://www.stanford.edu",
   // altName: "",
   // secretDescription: "I like dogs.",
