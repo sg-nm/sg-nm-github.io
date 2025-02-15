@@ -12,7 +12,7 @@ export const educationData: Education[] = [
   {
     year: "2015—2017",
     institution: "Yokohama National University",
-    degree: "Ph.D. in Engineering",
+    degree: "Ph.D. in Engineering (finished in 2.5 years)",
     //advisor: "Prof. Sarah Johnson",
   },
   {
@@ -26,7 +26,7 @@ export const educationData: Education[] = [
   {
     year: "2010—2013",
     institution: "Yokohama National University",
-    degree: "B.S. in Engineering",
+    degree: "dropout for grade-skipping",
     // thesis: "Algorithmic Approaches to Causal Discovery",
     // Optional links to thesis
     // thesisUrl: "https://dspace.mit.edu/handle/1721.1/149111"
