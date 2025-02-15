@@ -13,8 +13,8 @@ export const experienceData: Experience[] = [
     date: "2024.8 - Present",
     title: "Research Scientist",
     company: "Sakana AI",
-    // description:
-    //  "Developed novel algorithms for causal structure learning in reinforcement learning settings",
+    description:
+    "Cross appointment with Tohoku University from 2024.8 to 2025.1",
     // advisor: "Peter Wang",
     // companyUrl: "https://deepmind.com",
   },
@@ -31,8 +31,8 @@ export const experienceData: Experience[] = [
     date: "2018.10 - 2025.1",
     title: "Assistant Professor",
     company: "Tohoku University",
-    // description:
-    //  "Worked on improving robustness of large language models to distribution shifts",
+    description:
+    "Cross appointment with RIKEN AIP from 2017.10 to 2021.9",
     // manager: "Elise Brown",
     // companyUrl: "https://google.com",
   },
@@ -40,8 +40,8 @@ export const experienceData: Experience[] = [
     date: "2017.10 - 2021.9",
     title: "Researcher",
     company: "RIKEN AIP",
-    // description:
-    //  "Worked on improving robustness of large language models to distribution shifts",
+    description:
+    "Cross appointment with Tohoku University",
     // manager: "Elise Brown",
     // companyUrl: "https://google.com",
   },
